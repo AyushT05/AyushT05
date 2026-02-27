@@ -1,54 +1,58 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Ayush%20Thanthri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&fontFamily=Great+Vibes)
-
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=50&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&height=100&lines=Ayush+Thanthri" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;TypeScript+Enthusiast;Building+Scalable+Apps;Open+Source+Learner&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=92FE9D&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;TypeScript+Focused;Building+Scalable+Systems;Shipping+Real+World+Products" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 💻 Building real-world full stack applications  
-- 🔥 Focused on TypeScript & scalable backend systems  
-- 🧠 Always learning, always shipping  
+I build scalable full-stack systems with a strong focus on clean architecture and real-world impact.
 
----
-
-## 🛠 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,node,express,mongodb,html,css,git,github" />
-</p>
+- 💻 Full Stack Development (TypeScript Ecosystem)
+- ⚙️ Backend-heavy mindset
+- 🚀 Always building, not just learning
 
 ---
 
-## 📊 GitHub Stats
+## ⚒️ Core Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushT05&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushT05&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=ts,node,react,express,mongodb,postgres,redis,git,github" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Highlighted Projects
 
 ### 🔹 Equiskill LMS
-Learning management platform  
-Tech: TypeScript, Node.js, MongoDB  
+Scalable learning management platform  
+TypeScript • Node.js • MongoDB  
 
 ### 🔹 Equiskill Chat
-Real-time communication platform  
-Tech: TypeScript, WebSockets  
+Real-time communication engine  
+WebSockets • TypeScript  
 
 ### 🔹 SnapQuest
-Frontend interactive project  
-Tech: CSS, JavaScript  
+Interactive frontend application  
+JavaScript • CSS  
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Metrics
 
-![snake gif](https://github.com/AyushT05/AyushT05/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AyushT05&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushT05&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/AyushT05/AyushT05/blob/output/github-contribution-grid-snake.svg" />
+</p>
