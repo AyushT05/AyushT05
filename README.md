@@ -46,6 +46,8 @@ Frontend interactive project
 Tech: CSS, JavaScript  
 
 ---
+## 📅 Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyushT05&theme=tokyo-night)
 
 ## 🐍 Contribution Snake
 <p align="center">
