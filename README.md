@@ -49,5 +49,5 @@ Tech: CSS, JavaScript
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AyushT05/AyushT05/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/AyushT05/AyushT05/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
