@@ -1,55 +1,57 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a8a2e,100:92FE9D&height=200&section=header" width="100%"/>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=60&duration=1&pause=99999999&color=FFFFFF&background=1a8a2e00&center=true&vCenter=true&repeat=false&width=500&height=90&lines=Ayush+Thanthri" alt="Ayush Thanthri" />
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:24283b&height=220&section=header&text=Ayush%20Thanthri&fontSize=45&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;TypeScript+Enthusiast;Building+Scalable+Apps;Open+Source+Learner&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+Enthusiast;Building+Scalable+Backend+Systems;Open+Source+Learner" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Building real-world full stack applications  
-- 🔥 Focused on TypeScript & scalable backend systems  
+- 💻 Building production-ready full stack applications  
+- ⚡ Focused on scalable backend architecture  
 - 🧠 Always learning, always shipping  
 
 ---
 
 ## 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,node,express,mongodb,html,css,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,node,express,mongodb,html,css,git,github&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushT05&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushT05&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AyushT05&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushT05&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushT05&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AyushT05/AyushT05/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
+
 ### 🔹 Equiskill LMS
 Learning management platform  
-Tech: TypeScript, Node.js, MongoDB  
+**Tech:** TypeScript, Node.js, MongoDB  
 
 ### 🔹 Equiskill Chat
 Real-time communication platform  
-Tech: TypeScript, WebSockets  
+**Tech:** TypeScript, WebSockets  
 
 ### 🔹 SnapQuest
-Frontend interactive project  
-Tech: CSS, JavaScript  
-
----
-## 📅 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyushT05&theme=tokyo-night)
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AyushT05/AyushT05/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+Interactive frontend project  
+**Tech:** CSS, JavaScript  
