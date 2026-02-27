@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Ayush%20Thanthri&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Ayush%20Thanthri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&fontFamily=Great+Vibes)
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 
