@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=60&duration=1&pause=99999999&color=FFFFFF&background=1a8a2e00&center=true&vCenter=true&repeat=false&width=500&height=90&lines=Ayush+Thanthri" alt="Ayush Thanthri" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;TypeScript+Enthusiast;Building+Scalable+Apps;Open+Source+Learner&center=true&width=500&height=50">
 </p>
