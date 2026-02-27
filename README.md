@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a8a2e,100:92FE9D&height=200&section=header&text=Ayush%20Thanthri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontFamily=Dancing%20Script&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a8a2e,100:92FE9D&height=200&section=header" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=60&duration=1&pause=99999999&color=FFFFFF&background=1a8a2e00&center=true&vCenter=true&repeat=false&width=500&height=90&lines=Ayush+Thanthri" alt="Ayush Thanthri" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <p align="center">
