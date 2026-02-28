@@ -21,7 +21,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,node,express,mongodb,html,css,git,github&perline=10" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,html,css,git,github&theme=dark" />
 </p>
 
 ---
@@ -29,8 +29,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushT05&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushT05&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushT05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushT05&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 </p>
 
 ---
