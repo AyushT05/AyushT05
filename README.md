@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=60&duration=1&pause=99999999&color=FFFFFF&background=1a8a2e00&center=true&vCenter=true&repeat=false&width=500&height=90&lines=Ayush+Thanthri" alt="Ayush Thanthri" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;TypeScript+Enthusiast;Building+Scalable+Apps;Open+Source+Learner&center=true&width=500&height=50">
 </p>
@@ -22,8 +20,8 @@
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,node,express,mongodb,html,css,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,node,express,mongodb,html,css,git,github&perline=10" />
 </p>
 
 ---
@@ -31,8 +29,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushT05&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushT05&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushT05&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushT05&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
