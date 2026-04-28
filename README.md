@@ -49,17 +49,18 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Equiskill LMS
-Learning management platform  
-Tech: TypeScript, Node.js, MongoDB  
+### 🔹 [Equiskill-AI](https://github.com/AyushT05/Equiskill-AI)
+AI-powered learning ecosystem with personalized exam prep, AI course generation, RAG-based notes summarizer, and a community discussion platform — built to make education accessible across languages and backgrounds.  
+**Live:** [equiskill.vercel.app](https://equiskill.vercel.app)  
+Tech: Next.js, React, Node.js, PostgreSQL, Gemini AI, Convex, NeonDB
 
-### 🔹 Equiskill Chat
-Real-time communication platform  
-Tech: TypeScript, WebSockets  
+### 🔹 [FlavorFusion](https://github.com/AyushT05/FlavorFusion)
+AI-powered recipe discovery and food blog generation platform with automated content creation and publishing.  
+Tech: TypeScript, Node.js, AI Integration
 
-### 🔹 SnapQuest
-Frontend interactive project  
-Tech: CSS, JavaScript  
+### 🔹 [MediMind](https://github.com/AyushT05/AI-Healthcare)
+A data-intensive medical decision support system using symptom-based inference and image analysis, with backend services for structured data processing, model inference, and secure database integration.  
+Tech: TypeScript, Node.js, MongoDB
 
 ---
 
