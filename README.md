@@ -14,15 +14,15 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Building real-world full stack applications  
-- 🔥 Focused on TypeScript & scalable backend systems  
-- 🧠 Always learning, always shipping  
+-  Building real-world full stack applications  
+-  Focused on TypeScript & scalable backend systems  
+-  Always learning, always shipping  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,html,css,git,github" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <picture>
@@ -47,7 +47,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔹 [Equiskill-AI](https://github.com/AyushT05/Equiskill-AI)
 AI-powered learning ecosystem with personalized exam prep, AI course generation, RAG-based notes summarizer, and a community discussion platform — built to make education accessible across languages and backgrounds.  
@@ -64,7 +64,7 @@ Tech: TypeScript, Node.js, MongoDB
 
 ---
 
-## 📅 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <picture>
@@ -76,7 +76,6 @@ Tech: TypeScript, Node.js, MongoDB
 
 ---
 
-## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
