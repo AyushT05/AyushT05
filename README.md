@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a8a2e,100:92FE9D&height=200&section=header"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a8a2e,100:4caf6e&height=200&section=header"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a8a2e,100:92FE9D&height=200&section=header" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a8a2e,100:92FE9D&height=200&section=header" width="100%"/>
 
 <p align="center">
   <picture>
