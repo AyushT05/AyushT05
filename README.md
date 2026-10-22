@@ -34,10 +34,6 @@ I'm a Computer Science and Engineering undergraduate specializing in **Artificia
 - AWS Certified Cloud Practitioner with a strong interest in cloud architecture and infrastructure.
 - Hackathon finalist and winner, passionate about solving meaningful problems through technology.
 
-**Education:** B.E. in CSE (AI & ML) — Vidyavardhaka College of Engineering, Mysuru
-
-**CGPA:** 9.39/10
-
 ---
 
 ## Tech Stack
@@ -60,16 +56,6 @@ I'm a Computer Science and Engineering undergraduate specializing in **Artificia
 
 ---
 
-## Achievements & Certifications
-
-| Achievement | Recognition |
-|---|---|
-| HackRx 6.0 | Grand Finalist — Top 8 among 1,900+ teams |
-| INNOWAH! Innovation Challenge — PALS IIT Madras | Winner among 500+ teams |
-| HackKshettra | 1st Place — 24-hour hackathon, among 200 teams |
-| AWS Certified Cloud Practitioner | CLF-C02 — Score: 844/1000 |
-
----
 
 ## Featured Projects
 
