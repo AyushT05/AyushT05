@@ -24,22 +24,23 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Science and Engineering undergraduate specializing in **Artificial Intelligence and Machine Learning**, passionate about backend engineering, scalable systems, and practical AI applications.
 
-- 🚀 Building real-world applications powered by AI, data, and robust backend systems.
-- ⚙️ Interested in API development, distributed systems, databases, and cloud infrastructure.
-- 🤖 Exploring RAG pipelines, intelligent agents, document processing, and AI-driven automation.
-- ☁️ AWS Certified Cloud Practitioner with a strong interest in cloud architecture and infrastructure.
-- 🏆 Hackathon finalist and winner, passionate about solving meaningful problems through technology.
+- Building real-world applications powered by AI, data, and robust backend systems.
+- Interested in API development, distributed systems, databases, and cloud infrastructure.
+- Exploring RAG pipelines, intelligent agents, document processing, and AI-driven automation.
+- AWS Certified Cloud Practitioner with a strong interest in cloud architecture and infrastructure.
+- Hackathon finalist and winner, passionate about solving meaningful problems through technology.
 
-🎓 **B.E. in CSE (AI & ML)** — Vidyavardhaka College of Engineering, Mysuru  
-📊 **CGPA:** 9.39/10
+**Education:** B.E. in CSE (AI & ML) — Vidyavardhaka College of Engineering, Mysuru
+
+**CGPA:** 9.39/10
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,nodejs,express,fastapi,flask" alt="Programming and backend technologies"/>
@@ -59,33 +60,33 @@ I'm a Computer Science and Engineering undergraduate specializing in **Artificia
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
 | Achievement | Recognition |
 |---|---|
-| 🥇 HackRx 6.0 | Grand Finalist — Top 8 among 1,900+ teams |
-| 🏆 INNOWAH! Innovation Challenge — PALS IIT Madras | Winner among 500+ teams |
-| 🥇 HackKshettra | 1st Place — 24-hour hackathon, among 200 teams |
-| ☁️ AWS Certified Cloud Practitioner | CLF-C02 — Score: 844/1000 |
+| HackRx 6.0 | Grand Finalist — Top 8 among 1,900+ teams |
+| INNOWAH! Innovation Challenge — PALS IIT Madras | Winner among 500+ teams |
+| HackKshettra | 1st Place — 24-hour hackathon, among 200 teams |
+| AWS Certified Cloud Practitioner | CLF-C02 — Score: 844/1000 |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔹 [Equiskill-AI](https://github.com/AyushT05/Equiskill-AI)
+### [Equiskill-AI](https://github.com/AyushT05/Equiskill-AI)
 
 An AI-powered learning and content management platform designed to make education more accessible and personalized.
 
 - Automated course generation and educational content delivery.
 - AI-powered document ingestion, knowledge processing, and learning assistance.
 - RAG-based learning workflows and student–educator collaboration.
-- Built with a focus on scalable backend services and educational analytics.
+- Scalable backend services and educational analytics.
 
 **Tech:** Next.js, PostgreSQL (Neon), Drizzle ORM, Prisma, Convex, LlamaIndex, LLM Integration
 
-🌐 **Live Demo:** [equiskill.vercel.app](https://equiskill.vercel.app)
+**Live Demo:** [equiskill.vercel.app](https://equiskill.vercel.app)
 
-### 🔹 [MargaRakshak — Travel Safety](https://github.com/AyushT05/Travel-Safety)
+### [MargaRakshak — Travel Safety](https://github.com/AyushT05/Travel-Safety)
 
 An intelligent tourist safety and incident response system designed to improve traveller security through location intelligence and automated risk analysis.
 
@@ -96,18 +97,18 @@ An intelligent tourist safety and incident response system designed to improve t
 
 **Tech:** React, Supabase, Python, FastAPI, Geospatial Analysis, AI Agents
 
-### 🔹 [TransactIQ](https://github.com/AyushT05/TransactIQ)
+### [TransactIQ](https://github.com/AyushT05/TransactIQ)
 
 An AI-assisted transaction monitoring and financial analysis system focused on identifying suspicious activity and supporting investigation workflows.
 
 - Transaction analysis and suspicious activity investigation.
 - Agent-based workflows for financial analysis and regulatory research.
 - Structured task execution for transaction monitoring and investigation support.
-- Designed to combine data analysis with contextual intelligence.
+- Context-aware analysis to support investigation workflows.
 
 **Tech:** Python, SQLite, AI Agents, Transaction Analytics, Regulatory Research
 
-### 🔹 [FlavorFusion](https://github.com/AyushT05/FlavorFusion)
+### [FlavorFusion](https://github.com/AyushT05/FlavorFusion)
 
 An AI-powered recipe discovery and food content generation platform built to streamline recipe creation and food blog publishing.
 
@@ -117,7 +118,7 @@ An AI-powered recipe discovery and food content generation platform built to str
 
 **Tech:** TypeScript, Node.js, AI Integration
 
-### 🔹 LLM-Powered Document Intelligence API
+### LLM-Powered Document Intelligence API
 
 An intelligent document-processing and question-answering system that enables information retrieval across multiple file formats and web sources.
 
@@ -130,7 +131,7 @@ An intelligent document-processing and question-answering system that enables in
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <picture>
@@ -151,7 +152,7 @@ An intelligent document-processing and question-answering system that enables in
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <picture>
@@ -163,7 +164,7 @@ An intelligent document-processing and question-answering system that enables in
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
